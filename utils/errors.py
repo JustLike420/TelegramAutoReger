@@ -1,0 +1,2 @@
+class NoPhonesError(BaseException):
+    pass
